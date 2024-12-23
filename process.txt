@@ -117,4 +117,5 @@ npm i ts-node-dev --save-dev
         "start-prod": "node ./dist/server.js",
     }
 2. add on .env
-    NODE_ENV= developmant
+    NODE_ENV= developmantnpm i
+    
